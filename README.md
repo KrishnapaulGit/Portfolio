@@ -1,2 +1,1 @@
-# Portfolio
-This is my demo portfolio website
+This is a demo portfolio website.
